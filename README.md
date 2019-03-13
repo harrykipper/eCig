@@ -1,4 +1,4 @@
 # eCig
 Microsimulation of eCigarette adoption. 
 
-Will add datasets
+Need to add relevant datasets. The code in ipf.R generates the 16-74 y.o. population of England and Wales region by region.
